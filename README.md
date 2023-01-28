@@ -18,7 +18,7 @@ Project:
 
 
 ## Results
-A model created is able to classify five kinds of grapevine leaves with over 80% validation accuracy. The best performing model was achieved using Hyperparameter Tuning.
+The created model is able to classify five kinds of grapevine leaves with over 80% validation accuracy. The best performing model was achieved using Hyperparameter Tuning.
 
 ## Future work
 In order to further improve the results we need to continue experimentation and attempt:
