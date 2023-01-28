@@ -3,6 +3,7 @@
 ## About the project
 
 This computer vision project attempts to recreate some of the research findings from the following article:
+
 Koklu, M., Unlersen, M. F., Ozkan, I. A., Aslan, M. F., & Sabanci, K. (2022). A CNN-SVM study based on selected deep features for grapevine leaves classification. Measurement, 188, 110425. Doi:https://doi.org/10.1016/j.measurement.2021.110425
 
 Images for classification were taken using Kaggle API (https://www.kaggle.com/datasets/muratkokludataset/grapevine-leaves-image-dataset), dataset includes 100 images per 5 species of grapevine leaves (Ak, Ala Adris, Buzgulu, Dimnit and Nazli).
