@@ -16,7 +16,7 @@ Project:
 4. allows to test predictions on five random images from the dataset
 
 ## Image examples
-<img src="/sample_images/Ak.png" width="450" height="300">  <img src="/sample_images/Ala_Idris.png" width="450" height="300"> 
+<img src="/sample_images/Ak.png" width="300" height="150">  <img src="/sample_images/Ala_Idris.png" width="450" height="300"> 
 <img src="/sample_images/Buzgulu.png" width="450" height="300"> <img src="/sample_images/Dimnit.png" width="450" height="300"> <img src="/sample_images/Nazli.png" width="450" height="300"> (Koklu, M., Unlersen, M. F., et al. (2022)) 
 
 ## Results
